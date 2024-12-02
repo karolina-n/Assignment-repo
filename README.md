@@ -10,27 +10,50 @@ This project visualizes functional magnetic resonance imaging (fMRI) data associ
 
 ## Table of Contents
 1.	Introduction: Overview of the project and its goals.
+   
 2.	Data Used: 
 
+
 •  Functional Data: Neurosynth uniformity test for “empathy”.
+
 •  Anatomical Data: High-resolution structural MRI scan.
 
+
 3.	Files in Repository
+   
+   
 •	Notebook: Jupyter_assignment.ipynb - Contains the code for visualizing the data
+
 •	Data Files:
+
 o	Functional Data: uniformity_test_empathy.nii
+
 o	Anatomical Data: anatomical_empathy.nii
 
+
 4.	Code Highlights
+   
+   
 •	Automatic file detection using glob to identify .nii files in the working directory.
+
 •	Brain visualization using Nilearn’s plot_stat_map.
+
 •	Histogram of positive values from functional data using Matplotlib.
 
+
 5.	Python Packages
+   
+   
 •	Python 3 (specifically version - 3.12.4)
+
 •	Nibabel (nib): For loading .nii files and extracting numerical data
+
 •	Nilearn (nilearn.plotting): For creating statistical overlays on anatomical MRI images
+
 •	Matplotlib (matplotlib.pyplot): For plotting the histogram
+
 •	NumPy (np): For handling numerical data efficiently
+
 •	Glob : find files 
+
 •	Pandas: Used for data handling
