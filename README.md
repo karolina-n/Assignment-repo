@@ -26,9 +26,10 @@ This project visualizes functional magnetic resonance imaging (fMRI) data associ
 
 •	Data Files:
 
-o	Functional Data: uniformity_test_empathy.nii
 
-o	Anatomical Data: anatomical_empathy.nii
+     o	Functional Data: uniformity_test_empathy.nii
+
+     o	Anatomical Data: anatomical_empathy.nii
 
 
 4.	Code Highlights
