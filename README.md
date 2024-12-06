@@ -1,3 +1,5 @@
+Home assignment for my programming course.
+
 # Visualizing fMRI Data for Empathy
 
 ## Author : Karolína Nováková
