@@ -60,3 +60,7 @@ This project visualizes functional magnetic resonance imaging (fMRI) data associ
 •	Glob : find files 
 
 •	Pandas: Used for data handling
+
+
+6. Pull Request Evidence
+   •	in the form of a screenshot (.jpeg)
