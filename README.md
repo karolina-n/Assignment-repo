@@ -63,4 +63,5 @@ This project visualizes functional magnetic resonance imaging (fMRI) data associ
 
 
 6. Pull Request Evidence
+
    •	in the form of a screenshot (.jpeg)
